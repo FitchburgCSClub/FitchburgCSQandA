@@ -3,7 +3,7 @@
   <?php
     $title = "CS Q and A";
     include_once 'header.php';?>
-  <body>
+
     <div class="row">
       <div class="col-lg-1 col-md-1">
       </div>
@@ -25,6 +25,5 @@
       </div>
     </div>
 
-    </body>
     <?php include_once 'footer.php';?>
 </html>

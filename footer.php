@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<footer>
   <nav class="navbar navbar-default navbar-fixed-bottom">
     <div class="row">
       <div class="col-sm-12">
@@ -17,5 +14,3 @@
       </div>
     </div>
   </nav>
-</footer>
-</html>
