@@ -4,7 +4,7 @@
   <head>
     <title><?php echo $title; ?></title>
     <link rel="stylesheet" href="css/bootstrap.min.css"/>
-    <script src="/jquery/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
   </head>
   <nav class="navbar navbar-inverse">
