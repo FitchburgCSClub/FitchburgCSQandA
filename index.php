@@ -18,7 +18,7 @@
       <div class="col-lg-1 col-md-1">
       </div>
       <div class="col-lg-10 col-md-10">
-	       <h4>This site is to ask questions about Computer Science progects both
+	       <h4>This site is to ask questions about Computer Science projects both
             for class and fun.</h4>
       </div>
       <div class="col-lg-1 col-md-1">
