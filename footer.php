@@ -1,8 +1,8 @@
-  <nav class="navbar navbar-default navbar-fixed-bottom">
+  <footer class="navbar navbar-default navbar-fixed-bottom">
     <div class="row">
       <div class="col-sm-12">
         This was created by
-        <a href="http://user.fitchburgcsclub.net/~etucker/">Elijah A. Tucker</a>
+        <a href="https://elijahatucker.me/">Elijah A. Tucker</a>
         for the use of the
         <a href="http://fitchburgcsclub.net">Fitchburg State University Computer Science Club</a>.
       </div>
@@ -13,4 +13,4 @@
         <a href="https://github.com/FitchburgCSClub/FitchburgCSQandA">GitHub</a>
       </div>
     </div>
-  </nav>
+  </footer>
