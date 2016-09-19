@@ -22,6 +22,10 @@
         <input type="submit" value="Submit" class="btn btn-success"/>
       </div>
     </form>
+    <form name="setup" action="setup.php">
+      <input type="submit" value="Don't have a username: create one now"
+      class="btn btn-link"/></form>
+
   </div>
   <?php include 'footer.php'; ?>
 </html>
